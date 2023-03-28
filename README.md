@@ -12,6 +12,8 @@ they need to remember.
 "Recall" is a great offline CLI game for anyone who wants to improve their 
 memory skills, and it's perfect for players of all ages.
 
+(The numbers are displayed as an intricate ASCII banner so you can't just copy-paste them)
+
 In your terminal, run the following commands:
 
 apt-get install python3
