@@ -24,6 +24,7 @@ cd recall
 
 pip install -r requirements.txt
 
+** THE GAME STARTS AS SOON AS YOU RUN THIS COMMAND **
 python3 recall.py
 
 Have fun!
